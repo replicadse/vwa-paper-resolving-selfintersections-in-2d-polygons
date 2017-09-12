@@ -1,2 +1,4 @@
 /~*.tmp
 /~$*.docx
+*.odt#
+.DS_Store
